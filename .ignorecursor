@@ -1,0 +1,41 @@
+# Unity system folders
+Library
+Temp
+Obj
+Build
+Builds
+Logs
+
+# User files
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.bak
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Hidden files and folders
+.*
+
+# Packages
+Packages/manifest.json
+Packages/packages-lock.json
+
+# IDE and cache
+obj
+.vs
+.idea
+.vscode
